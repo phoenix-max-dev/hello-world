@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm phoenix max, just getting started with coding and GitHub.
+I'm phoenix max, just getting started with GitHub.
 
 This is my **first step** into the world of open source and development.  
 I'm currently learning **Python and Javascript**, and I'm excited to build cool things as I grow.
